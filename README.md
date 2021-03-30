@@ -32,7 +32,7 @@ $ git clone https://github.com/BDAlfajAhmedJhenida/Spam-sms.git
 
 cd Spam-sms
 
-python2 Sms.py
+python Sms.py
 
 <h2> Thanks All Usr
   
